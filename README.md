@@ -9,6 +9,7 @@ Converts them into a standard .csv file
 Optionally filters data for a specific recipient country (e.g. Somalia, Kenya, etc)
 
 2. What you need before you start
+
 2.1 Install Python (only once)
 
 Go to: https://www.python.org/downloads/
@@ -48,7 +49,9 @@ Your folder should now contain:
 CRS_parser\
 │
 ├── crs_parser.py
+
 ├── requirements.txt
+
 └── README.md
 
 4. Prepare your CRS data
@@ -135,13 +138,17 @@ Country name matching is case-insensitive
 C:\
 │
 ├── CRS_parser\
+
 │   ├── crs_parser.py
+
 │   ├── requirements.txt
+
 │   └── README.md 
     └──CRS_data\
 │       ├── CRS2022.txt
 │       ├── CRS2023.txt
 │       └── CRS2024.txt
+
     └── kenya.csv
 
 11. Support
