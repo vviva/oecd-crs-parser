@@ -136,19 +136,19 @@ Country name matching is case-insensitive
 
 10. Example folder setup (recommended)
 C:\
-│
-├── CRS_parser\
 
-│   ├── crs_parser.py
+── CRS_parser\
 
-│   ├── requirements.txt
+   ├── crs_parser.py
 
-│   └── README.md 
+   ├── requirements.txt
+
+   └── README.md 
 
     └──CRS_data\
-│       ├── CRS2022.txt
-│       ├── CRS2023.txt
-│       └── CRS2024.txt
+       ├── CRS2022.txt
+       ├── CRS2023.txt
+       └── CRS2024.txt
 
     └── kenya.csv
 
